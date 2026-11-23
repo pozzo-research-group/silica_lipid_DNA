@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "silica_lipid_DNA"
+type: software
+authors:
+  - name: "Pozzo Research Group, University of Washington"
+repository-code: "https://github.com/pozzo-research-group/silica_lipid_DNA"
+url: "https://pozzorg.com"
+preferred-citation:
+  type: article
+  title: "Assembly of small silica nanoparticles using lipid-tethered DNA ‘bonds’"
+  authors:
+    - family-names: "Chiang"
+      given-names: "Huat Thart"
+    - family-names: "Kern"
+      given-names: "Naomi"
+    - family-names: "Wylie"
+      given-names: "Zachery R."
+    - family-names: "Moeez"
+      given-names: "Abdul"
+    - family-names: "Zhang"
+      given-names: "Haoqing"
+    - family-names: "McKeen"
+      given-names: "Daniel"
+    - family-names: "Herringer"
+      given-names: "Nicholas S. M."
+    - family-names: "Gang"
+      given-names: "Oleg"
+    - family-names: "Ferguson"
+      given-names: "Andrew L."
+    - family-names: "Sherman"
+      given-names: "Zachary"
+    - family-names: "Pozzo"
+      given-names: "Lilo D."
+  journal: "Soft Matter"
+  year: 2025
+  volume: "21"
+  issue: "48"
+  start: "9398"
+  end: "9411"
+  doi: "10.1039/d5sm00924c"
